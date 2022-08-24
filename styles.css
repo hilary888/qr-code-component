@@ -32,7 +32,7 @@ main {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    min-height: 100vh;
     background-color: hsl(212, 45%, 89%);
 }
 
