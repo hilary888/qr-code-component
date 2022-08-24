@@ -23,11 +23,11 @@ p {
     color: hsl(228, 45%, 44%);
 }
 
-.footer {
+footer {
     background-color: hsl(212, 45%, 89%);
 }
 
-.container {
+main {
     display: flex;
     flex-direction: column;
     justify-content: center;
